@@ -1,0 +1,6 @@
+compound,pubchem_cid,capstone_smiles,mw_check,hbd_check,hba_check,logp_check,lipinski_overall
+Emetine,10219,CC[C@H]1CN2CCC3=CC(=C(C=C3[C@@H]2C[C@@H]1C[C@@H]4C5=CC(=C(C=C5CCN4)OC)OC)OC)OC,pass,pass,pass,pass,pass
+Artemether,68911,C[C@@H]1CC[C@H]2[C@H]([C@H](O[C@H]3[C@@]24[C@H]1CC[C@](O3)(OO4)C)OC)C,pass,pass,pass,pass,pass
+Azadirone,10906239,CC(=O)O[C@@H]1C[C@@H]2[C@](C=CC(=O)C2(C)C)([C@@H]3[C@@]1(C4=CC[C@H]([C@@]4(CC3)C)C5=COC=C5)C)C,pass,pass,pass,pass,pass
+Nimbolide,12313376,CC1=C2[C@@H](C[C@H]1C3=COC=C3)O[C@H]4[C@@]2([C@@H]([C@@]5([C@H]6[C@H]4OC(=O)[C@@]6(C=CC5=O)C)C)CC(=O)OC)C,pass,pass,pass,pass,pass
+Nicotinamide,936,C1=CC(=CN=C1)C(=O)N,pass,pass,pass,pass,pass

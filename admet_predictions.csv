@@ -1,0 +1,6 @@
+compound,caco2_permeability,human_intestinal_absorption,blood_brain_barrier,plasma_protein_binding_percent,cyp1a2_inhibitor,cyp3a4_inhibitor,half_life,clearance,herg_inhibition,dili
+Emetine,-5.019,---,---,71.0,---,---,1.905,10.707,0.733,0.112
+Artemether,-4.847,---,---,60.3,-,---,1.916,13.876,0.228,0.58
+Azadirone,-4.949,---,+,94.0,---,++,0.269,9.894,0.248,0.836
+Nimbolide,-4.993,---,--,93.1,---,+++,1.192,11.614,0.21,0.845
+Nicotinamide,-4.403,---,++,4.7,---,---,2.083,5.4,0.168,0.607
